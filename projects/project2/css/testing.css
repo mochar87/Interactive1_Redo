@@ -1,0 +1,658 @@
+body {
+	width: 5800px;
+	height: 2500px;
+	background-color: black;
+}
+
+#container1{
+	width: 5800px;
+	height: 2500px;
+	position: absolute;
+	z-index: 1;
+}
+
+#box1{
+	width: 320px;
+	height: 240px;
+	position: absolute;
+	top: 600px;
+	background-image: url(../images/animatrix-o.gif);
+	z-index: 5;	
+}
+
+#box2{
+	width: 700px;
+	height: 525px;
+	position: absolute;
+	top: 900px;
+	left: 2900px;
+	background-image: url(../images/am_i_dreaming.jpg);
+	z-index: 5;
+}
+
+#box3{
+	width: 736px;
+	height: 420px;
+	position: absolute;
+	top: 1300px;
+	left: 3525px;
+	background-image: url(../images/hacking.jpg);
+	z-index: 5;
+}
+
+#box4{
+	width: 500px;
+	height: 198px;
+	position: absolute;
+	top: 873px;
+	right: 1100px;
+	background-image: url(../images/rabbit.gif);
+	z-index: 5;
+}
+
+#box5{
+	width: 100px;
+	height: 198px;
+	position: absolute;
+	top: 443px;
+	right: 625px;
+	background-image: url(../images/white-rabbit.jpg);
+	z-index: 5;
+}
+
+#box6{
+	width: 928px;
+	height: 412px;
+	position: absolute;
+	top: 2000px;
+	right: 400px;
+	background-image: url(../images/trinity.jpg);
+	z-index: 4;	
+}
+
+#box7{
+	width: 1600px;
+	height: 1071px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background-image: url(../images/nightstreet.jpg);
+	opacity: 0.8;
+	z-index: 4;	
+}
+
+#box8{
+	width: 800px;
+	height: 339px;
+	position: absolute;
+	top: 1390px;
+	left: 2950px;
+	background-image: url(../images/animatrix1.jpg);
+	opacity: 0.8;
+	z-index: 4;	
+}
+
+#box9{
+	width: 480px;
+	height: 197px;
+	position: absolute;
+	top: 0px;
+	left: 1000px;
+	background-image: url(../images/boss-small.jpg);
+	z-index: 5;	
+}
+
+#box10{
+	width: 1280px;
+	height: 800px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-image: url(../images/cityscape1small.jpg);
+	z-index: 3;
+}
+
+
+#box11{
+	width: 576px;
+	height: 381px;
+	position: absolute;
+	top: 750px;
+	left: 1200px;
+	background-image: url(../images/ewokone-small.png);
+	z-index: 5;
+}
+
+#box12{
+	width: 400px;
+	height: 157px;
+	position: absolute;
+	top: 100px;
+	left: 1400px;
+	background-image: url(../images/matrix_office.jpg);
+	z-index: 6;
+}
+
+#box13{
+	width: 846px;
+	height: 565px;
+	position: absolute;
+	top: 250px;
+	left: 1600px;
+	background-image: url(../images/ny-subway.jpg);
+	z-index: 5;
+}
+
+#box14{
+	width: 1280px;
+	height: 524px;
+	position: absolute;
+	top: 0px;
+	left: 2000px;
+	background-image: url(../images/office.jpg);
+	z-index: 4;
+
+}
+
+#box15{
+	width: 453px;
+	height: 119px;
+	position: absolute;
+	top: 245px;
+	left: 2000px;
+	background-image: url(../images/notalone-crop.png);
+	z-index: 6;
+
+}
+
+#box16{
+	width: 453px;
+	height: 97px;
+	position: absolute;
+	top: 427px;
+	left: 2827px;
+	background-image: url(../images/notalone-crop2.png);
+	z-index: 6;
+
+}
+
+#box17{
+	width: 364px;
+	height: 512px;
+	position: absolute;
+	top: 500px;
+	right: 2750px;
+	background-image: url(../images/punks-small.jpg);
+	z-index: 3;
+
+}
+
+#box18{
+	width: 1040px;
+	height: 582px;
+	position: absolute;
+	top: 125px;
+	left: 150px;
+	opacity: 0.5;
+	background-image: url(../images/pixelgirl-large.png);
+	z-index: 4;
+
+}
+
+#box19{
+	width: 1000px;
+	height: 414px;
+	position: absolute;
+	top: 300px;
+	right: 1700px;
+	background-image: url(../images/crashburn-large.jpg);
+	z-index: 3;
+
+}
+
+#box20{
+	width: 640px;
+	height: 448px;
+	position: absolute;
+	top: 990px;
+	left: 1740px;
+	opacity: 0.5;
+	background-image: url(../images/knife.jpg);
+	z-index: 6;
+}
+
+#box21{
+	width: 729px;
+	height: 524px;
+	position: absolute;
+	top: 950px;
+	left: 1700px;
+	background-image: url(../images/bus.png);
+	z-index: 2;
+
+}
+
+#box22{
+	width: 250px;
+	height: 1500px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	background-image: url(../images/recover-large.gif);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box23{
+	width: 50px;
+	height: 1500px;
+	position: absolute;
+	bottom: 0px;
+	left: 1225px;
+	background-color: black;
+	z-index: 10;
+}
+
+#box24{
+	width: 250px;
+	height: 1000px;
+	position: absolute;
+	top: 710px;
+	left: 500px;
+	background-image: url(../images/girl1.jpg);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box25{
+	width: 250px;
+	height: 1500px;
+	position: absolute;
+	bottom: 0px;
+	left: 1000px;
+	background-image: url(../images/girl1.jpg);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box26{
+	width: 250px;
+	height: 1500px;
+	position: absolute;
+	top: 0px;
+	left: 1500px;
+	background-image: url(../images/girl1.jpg);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box27{
+	width: 640px;
+	height: 640px;
+	position: absolute;
+	top: 700px;
+	right: 0px;
+	background-image: url(../images/payphone-small.jpg);
+	z-index: 10;
+}
+
+#box28{
+	width: 640px;
+	height: 360px;
+	position: absolute;
+	bottom: 450px;
+	right: 1200px;
+	background-image: url(../images/robot-small.jpg);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box29{
+	width: 300px;
+	height: 201px;
+	position: absolute;
+	bottom: 250px;
+	right: 900px;
+	background-image: url(../images/robot2.jpg);
+	z-index: 10;
+}
+
+#box30{
+	width: 500px;
+	height: 373px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	background-image: url(../images/ghost.gif);
+	z-index: 10;
+	opacity: 0.75;
+}
+
+#box30{
+	width: 1500px;
+	height: 100px;
+	position: absolute;
+	bottom: 540px;
+	right: 0px;
+	background-image: url(../images/giphy1.gif);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box31{
+	width: 1400px;
+	height: 50px;
+	position: absolute;
+	bottom: 525px;
+	right: 0px;
+	background-color: black;
+	z-index: 11;
+}
+
+#box32{
+	width: 1500px;
+	height: 100px;
+	position: absolute;
+	bottom: 500px;
+	left: 0px;
+	background-image: url(../images/giphy1.gif);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box33{
+	width: 1400px;
+	height: 50px;
+	position: absolute;
+	bottom: 540px;
+	left: 0px;
+	background-color: black;
+	z-index: 11;
+
+}
+
+#box34{
+	width: 1500px;
+	height: 100px;
+	position: absolute;
+	bottom: 475px;
+	left: 1500px;
+	background-image: url(../images/giphy1.gif);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box35{
+	width: 1400px;
+	height: 50px;
+	position: absolute;
+	bottom: 515px;
+	left: 1400px;
+	background-color: black;
+	z-index: 11;
+
+}
+
+#box36{
+	width: 1500px;
+	height: 100px;
+	position: absolute;
+	bottom: 450px;
+	left: 3000px;
+	background-image: url(../images/giphy1.gif);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box37{
+	width: 1700px;
+	height: 50px;
+	position: absolute;
+	bottom: 490px;
+	right: 1350px;
+	background-color: black;
+	z-index: 11;
+
+}
+
+#box38{
+	width: 50px;
+	height: 2500px;
+	position: absolute;
+	bottom: 0px;
+	right: 1650px;
+	background-image: url(../images/giphy4.gif);
+	z-index: 11;
+	opacity: 0.5;
+}
+
+#box39{
+	width: 50px;
+	height: 2500px;
+	position: absolute;
+	bottom: 0px;
+	left: 730px;
+	background-image: url(../images/giphy4.gif);
+	z-index: 11;
+	opacity: 0.5;
+}
+
+#box40{
+	width: 566px;
+	height: 243px;
+	position: absolute;
+	top: 1600px;
+	left: 3325px;
+	background-image: url(../images/hacking1.jpg);
+	z-index: 4;
+	opacity: 0.75;
+}
+
+#box41{
+	width: 640px;
+	height: 457px;
+	position: absolute;
+	bottom: 0px;
+	right: 1500px;
+	background-image: url(../images/prison-small.jpg);
+	z-index: 4;
+	opacity: 0.75;
+}
+
+#box42{
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	bottom: 0px;
+	right: 100px;
+	background-image: url(../images/citygif.gif);
+	z-index: 7;
+}
+
+#box43{
+	width: 500px;
+	height: 275px;
+	position: absolute;
+	bottom: 225px;
+	right: 100px;
+	background-image: url(../images/scrolling.gif);
+	z-index: 8;
+	opacity: 0.5;
+}
+
+#box44{
+	width: 50px;
+	height: 2500px;
+	position: absolute;
+	bottom: 490px;
+	right: 0px;
+	background-color: black;
+	z-index: 11;
+}
+
+#box45{
+	width: 250px;
+	height: 1200px;
+	position: absolute;
+	bottom: 0px;
+	left: 2000px;
+	background-image: url(../images/girl1.jpg);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box46{
+	width: 250px;
+	height: 1500px;
+	position: absolute;
+	top: 470px;
+	left: 2500px;
+	background-image: url(../images/girl1.jpg);
+	z-index: 10;
+	opacity: 0.5;
+}
+
+#box47{
+	width: 2048px;
+	height: 750px;
+	position: absolute;
+	bottom: 0px;
+	left: 1250px;
+	background-image: url(../images/shibuya-large.jpg);
+	z-index: 7;
+	opacity: 0.75;
+}
+
+#corruption{
+	background-image: url(../images/corrupted.png);
+	width: 5800px;
+	height: 2500px;
+	position: absolute;
+	opacity: 1.0;
+	z-index: -2;
+}
+
+#flashing{
+	width: 5800px;
+	height: 2500px;
+	background-image: url(../images/digital-pattern.gif);
+	position: absolute;
+	opacity: 0.55;
+	z-index: -1;
+	float: top left;
+	background-repeat: repeat;
+}
+
+#screenstop{
+	width: 5800px;
+	height: 577px;
+	background-repeat: repeat-x;
+	position: absolute;
+	background-image: url(../images/screens.jpg);
+	z-index: 5;
+	opacity: 0.5;
+}
+
+#screensbottom{
+	width: 5800px;
+	height: 577px;
+	background-repeat: repeat-x;
+	position: absolute;
+	top: 1923px;
+	background-image: url(../images/screens.jpg);
+	z-index: 5;
+	opacity: 0.75;
+}
+/*#container{
+	width: 6000px;
+	height: 1100px;
+}
+
+#topmargin{
+	width: 6000px;
+	height: 100px;
+	background-color: blue;
+	margin-top: 50px;
+	position: relative;
+}
+#lefttop1{
+	width: 100px;
+	height: 600px;
+	margin-right: 100px;
+	border-color: white;
+	background-color: magenta;
+	background-image: url(../images/birdview.jpg);
+	border: 10px;
+	float:left;
+	left: 0px;
+}
+#leftbottom1{
+	width: 100px;
+	height: 600px;
+	background-color: blue;
+	border-color: white;
+	border: 10px;
+	margin-right: 100px;
+	left: 110px;
+	float: left;
+}
+
+
+#lefttop2{
+	width: 100px;
+	height: 600px;
+	background-color: blue;
+	margin-right: 100px;
+	border-color: white;
+	border: 10px;
+	float:left;
+	left: 0px;
+}
+#leftbottom2{
+	width: 100px;
+	height: 600px;
+	background-color: blue;
+	border-color: white;
+	border: 10px;
+	margin-right: 100px;
+	top: 0px;
+	left: 110px;
+	float: left;
+}
+
+#lefttop3{
+	width: 100px;
+	height: 600px;
+	background-color: blue;
+	margin-right: 100px;
+	border-color: white;
+	border: 10px;
+	float:left;
+	left: 0px;
+}
+
+#leftbottom3{
+	width: 100px;
+	height: 600px;
+	background-color: blue;
+	border-color: white;
+	border: 10px;
+	top: 0px;
+	left: 110px;
+	float: left;
+}
+
+
+#top1{
+	width: 800px;
+	height: 100px;
+	background-color: blue;
+	float: top left;
+}
+
+#magic{
+	width: 600px;
+	height: 100px;
+	background-image: url(../images/magic.png);
+	float: bottom right;
+}

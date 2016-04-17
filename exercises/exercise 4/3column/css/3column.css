@@ -1,0 +1,55 @@
+#container{
+	width: 640px;
+	height: 700px;
+	background-color: white;	
+}
+
+#topthick{
+	width: 620px;
+	height: 75px;
+	background-color: red;
+	margin: 5px;
+}
+
+#topthin{
+	width: 620px;
+	height: 25px;
+	background-color: red;
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+
+#columnleft{
+	width: 200px;
+	height: 600px;
+	background-color: red;
+	margin: 5px;
+	float: left;
+}
+
+#columnmiddle{
+	width: 200px;
+	height: 600px;
+	background-color: red;
+	margin: 5px;
+	float: left;
+}
+
+#columnright{
+	width: 200px;
+	height: 600px;
+	background-color: red;
+	margin: 5px;
+	float: left;
+}
+
+#bottom{
+	width: 620px;
+	height: 75px;
+	background-color: red;
+	margin: 5px;
+	position: absolute;
+	bottom: 218;	
+}

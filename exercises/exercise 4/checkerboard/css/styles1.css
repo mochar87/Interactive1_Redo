@@ -1,0 +1,29 @@
+#background{
+	background-color: gray;
+}
+
+#board{
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+}
+
+#square {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	
+
+}
+
+#square1 {
+	width: 100px;
+	height: 100px;
+	background-color: gold;
+	float: left;
+}

@@ -1,0 +1,71 @@
+h1{
+	font-family: 'Paytone One', sans-serif;
+	font-size: 36px;
+	color: pink;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Paytone One', sans-serif;
+	font-size: 24px;
+	text-decoration: none;
+	color: pink;
+	text-align: center;
+}
+
+h3{ 
+	font-family: 'Paytone One', sans-serif;
+	font-size: 20px;
+	color: pink;
+	text-align: center;
+}
+
+
+#artist
+a:link {
+    color: gold;
+    font-family: arial;
+    font-size: 24px;
+    text-decoration: none;
+    
+
+}
+
+a:visited {
+    color: pink;
+    text-decoration: none;
+}
+
+a:active {
+		color: pink;
+		text-decoration: none;
+}
+
+.sidebar {
+	background-color: pink;
+	height: 700px;
+	width: 700px;
+	color: red;
+}
+
+
+#artist {
+	background: yellow;
+	height: 300px;
+	width: 300px;
+	color: goldenrod;
+	text-decoration: none;
+	padding-left: 10px;
+	border-left: 3px double goldenrod;
+}
+
+#cartoonist {
+	color: magenta;
+}
+
+#doodler {
+	color: orange;
+}
+
+
+

@@ -1,0 +1,245 @@
+body{
+	background: black;
+	height: 3000px;
+	width: 2000px;
+}
+
+.line1{
+	position: relative;
+	text-align: center;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 50px;
+	padding: 35px;
+}
+
+
+.D{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 43px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.E{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 243px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.A{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 443px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.D2{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 643px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.D2{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 643px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.period1{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 793px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.period2{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 893px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.period3{
+	position: absolute;
+	text-align: center;
+	left: 1043.5px;
+	top: 993px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+
+
+
+.line2{
+	position: relative;
+	top: 1093px;
+	text-align: center;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 50px;
+	padding: 35px;
+}
+
+
+.S{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 1246px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.A2{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 1436px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.I{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 1636px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+
+.D3{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 1836px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: white;
+}
+
+
+.D3{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 1836px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+
+
+.period1a{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 1936px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.period2a{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 2036px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.period3a{
+	position: absolute;
+	text-align: center;
+	left: 1292px;
+	top: 2136px;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	letter-spacing: 50px;
+	color: red;
+}
+
+.ellipses1{
+	position: relative;
+	top: 2100.5px; 
+	left: -35px;
+	text-align: center;
+	font-family: Courier;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+	letter-spacing: 50px;
+	padding: 35px;
+}
+
+
+

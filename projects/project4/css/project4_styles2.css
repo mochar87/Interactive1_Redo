@@ -1,0 +1,128 @@
+ @-webkit-keyframes typing {
+    from { width: 0}
+    to { width: 20em}
+}
+
+@-moz-keyframes typing {
+    from { width: 0 }
+    to { width: 18em}
+}
+
+@-webkit-keyframes blink-caret {
+    from, to { border-color: transparent }
+    100% { border-color: black }
+}
+
+@-moz-keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
+
+@-webkit-keyframes opacity {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+body { 
+    font-family: Courier, monospace;
+    background-color: black; 
+    color: white;
+    width: 1000px;
+    height: 500px;
+    }
+
+.container{
+    background-color: black;
+    width: 500px;
+    height: 250px;
+    margin-top: 250px;
+    margin-left: 250px;
+}
+
+
+.line2{ 
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 45px;
+    width: 30em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .1em solid black;
+    
+    -webkit-animation: typing 2s steps(10, end), 
+                        blink-caret 0.5s step-end infinite;
+    -moz-animation: typing 2s steps(9, end), 
+                        blink-caret 0.5s step-end infinite;
+}
+
+.S{
+    position: absolute;
+    text-align: center;
+    left: 825px;
+    top: 250px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 2.5s; /* Chrome, Safari, Opera */
+    animation-delay: 2.5s;
+}
+
+.A{
+    position: absolute;
+    text-align: center;
+    left: 825px;
+    top: 350px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 2.5s; /* Chrome, Safari, Opera */
+    animation-delay: 2.5s;
+}
+
+.I{
+    position: absolute;
+    text-align: center;
+    left: 825px;
+    top: 450px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 2.5s; /* Chrome, Safari, Opera */
+    animation-delay: 2.5s;
+}
+
+.D{
+    position: absolute;
+    text-align: center;
+    left: 825px;
+    top: 550px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 2.5s; /* Chrome, Safari, Opera */
+    animation-delay: 2.5s;
+}
+
+
+
+.ellipses{
+    position: absolute;
+    text-align: center;
+    left: 900px;
+    top: 550px;
+    font-family: Courier;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 2.5s; /* Chrome, Safari, Opera */
+    animation-delay: 2.5s;
+}

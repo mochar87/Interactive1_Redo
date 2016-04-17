@@ -1,0 +1,220 @@
+@-webkit-keyframes typing {
+    from { width: 0}
+    to { width: 18em}
+}
+
+@-moz-keyframes typing {
+    from { width: 0 }
+    to { width: 18em}
+}
+
+@-webkit-keyframes blink-caret {
+    from, to { border-color: transparent }
+    100% { border-color: black }
+}
+
+@-moz-keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
+
+@-webkit-keyframes opacity {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+body { 
+    font-family: Courier, monospace;
+    background-color: black; 
+    color: white;
+    width: 1000px;
+    height: 750px;
+    }
+
+.line1{ 
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 45px;
+    width: 25em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .1em solid black;
+    
+    -webkit-animation: typing 6s steps(9, end), 
+                        blink-caret 0.5s step-end infinite;
+    -moz-animation: typing 17s steps(30, end), 
+                        blink-caret 1s step-end infinite;
+}
+
+.D{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 7.5px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.E{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 137.5px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.A{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 267.5px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.D2{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 397.5px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.D2{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 397.5px;
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.period1{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 527.5px;
+    font-family: Courier;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.period2{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 592.5px;
+    font-family: Courier;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+.period3{
+    position: absolute;
+    text-align: center;
+    left: 323px;
+    top: 657.5px;
+    font-family: Courier;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 50px;
+    color: red;
+    -webkit-animation-delay: 7s; /* Chrome, Safari, Opera */
+    animation-delay: 7s;
+}
+
+
+.period3:hover{
+    animation-name: pulse; 
+    animation-duration: 0.5s;
+    -webkit-animation-delay: 8s; /* Chrome, Safari, Opera */
+    animation-delay: 8s;
+    animation-iteration: infinite;
+
+}
+
+/*.ellipses1{ 
+    font-size: 30px;
+    top: 0px;
+    left: 300px;
+    font-weight: bold;
+    letter-spacing: 25px;
+    width: 28em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .1em solid black;
+   
+    -webkit-animation: typing 12s steps(3, end), 
+                        blink-caret 0.5s step-end infinite;
+    -moz-animation: typing 17s steps(30, end), 
+                        blink-caret 1s step-end infinite;
+
+    -webkit-animation-delay: 6s; /* Chrome, Safari, Opera */
+            /*animation-delay: 6s;/*
+}
+}
+
+.line2{ 
+    font-size:150%;
+    width: 18em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .1em solid black;
+    
+    
+    -webkit-animation: typing 10s steps(30, end), 
+                        blink-caret 0.5s step-end infinite;
+    -moz-animation: typing 17s steps(30, end), 
+                        blink-caret 1s step-end infinite;
+
+}
+
+.line2{}
+
+h3{ 
+    font-size:150%;
+    width: 18em;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: .1em solid black;
+    
+    -webkit-animation: typing 10s steps(30, end), 
+                        blink-caret 0.5s step-end infinite;
+    -moz-animation: typing 17s steps(30, end), 
+                        blink-caret 1s step-end infinite;
+}

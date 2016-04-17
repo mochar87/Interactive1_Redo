@@ -1,0 +1,39 @@
+body {
+	background-color: black;
+}
+
+h1{
+	font-family: 'Pontano Sans', sans-serif;
+	font-size: 36px;
+	color: yellow;
+	text-align: center;
+}
+
+h4{ 
+	font-family: arial;
+	font-size: 12px;
+	font-style: italic;
+	color: magenta;
+	}
+
+h3{ 
+	font-family: impact, sans-serif;
+	font-size: 24px;
+	color: yellow;
+	}
+
+p{	
+	font-family: arial, sans-serif;
+	font-size: 24px;   
+	color: gold; 
+	
+}
+p{ font-family: arial, sans-serif;
+	font-size: 36px;
+	color: magenta;}
+
+ol{
+	font-family: impact, sans-serif;
+	color: gold;
+	font-size: 18px;
+}
