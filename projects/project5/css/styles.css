@@ -1,0 +1,650 @@
+body{
+	width: 10000px;
+	height: 783px;
+	background-image: url(../images/stucco_wall.png);
+	background-repeat: no-repeat;
+}
+
+#opening{
+	position: absolute;
+	height: 783px;
+	width: 1000px;
+	font-family: 'Libre Baskerville', serif;
+	color: #8B8878;
+	font-size: 50px;
+	top: 600px;
+	z-index: 10;
+}
+
+
+
+
+.joint{
+	position: absolute;
+	z-index: 3;
+	top: 150px;
+	left: 75px;
+}
+
+.frame1{
+	position: absolute;
+	z-index: 2;
+	top: 125px;
+	left: 33px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+.meme1{
+	z-index: 4;
+	position: absolute;
+	background-color:white;
+	opacity: 0.0;
+	height: 65px;
+	width: 309px;
+	top: 375px;
+	left: 75px;
+	font-family: impact;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.meme1:hover{
+	opacity: .75;
+}
+
+
+
+
+
+
+
+.banger{
+	position: absolute;
+	z-index: 3;
+	top: 200px;
+	left: 588px;
+}
+
+.frame2{
+	position: absolute;
+	z-index: 2;
+	top: 125px;
+	left: 515px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+.meme2{
+	z-index: 4;
+	position: absolute;
+	background-color:white;
+	opacity: 0.0;
+	height: 65px;
+	width: 288px;
+	top: 350px;
+	left: 588px;
+	font-family: impact;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.meme2:hover{
+	opacity: 0.75;
+}
+
+
+
+
+
+
+.stabbed{
+	position: absolute;
+	z-index: 3;
+	top: 152.5px;
+	left: 1068px;
+}
+
+.frame3{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 1035px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+.meme3{
+	z-index: 4;
+	position: absolute;
+	background-color:white;
+	opacity: 0.0;
+	height: 65px;
+	width: 317px;
+	top: 200px;
+	left: 1068px;
+	font-family: impact;
+	font-size: 26px;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.meme3:hover{
+	opacity: 0.75;
+}
+
+
+
+.video1{
+	z-index: -1;
+	position: absolute;
+	left: 1500px
+	top: 300px;
+}
+
+
+
+
+
+.meme4a{
+	z-index: 4;
+	background-color:white;
+	position: absolute;
+	opacity: 0.0;
+	height: 50px;
+	width: 355px;
+	top: 265px;
+	left: 2100px;
+	font-family: impact;
+	font-size: 24px;
+	font-color: gold;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme4a:hover{
+	opacity: 0.75;
+}
+
+.meme4b{
+	z-index: 4;
+	position: absolute;
+	background-color: white;
+	opacity: 0.0;
+	height: 50px;
+	width: 355px;
+	top: 315px;
+	left: 2100px;
+	font-family: impact;
+	font-size: 24px;
+	font-color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme4b:hover{
+	opacity: 0.75;
+}
+.meme4c{
+	z-index: 4;
+	position: absolute;
+	background-color:white;
+	opacity: 0.0;
+	height: 50px;
+	width: 355px;
+	top: 365px;
+	left: 2100px;
+	font-family: impact;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme4c:hover{
+	opacity: 0.75;
+}
+
+.meme4d{
+	z-index: 4;
+	position: absolute;
+	background-color:white;
+	opacity: 0.0;
+	height: 50px;
+	width: 355px;
+	top: 415px;
+	left: 2100px;
+	font-family: impact;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme4d:hover{
+	opacity: 0.75;
+}
+
+.yoloth{
+	position: absolute;
+	z-index: 3;
+	top: 215px;
+	left: 2100px;
+	
+}
+
+.frame4{
+	position: absolute;
+	z-index: 3;
+	top: 120px;
+	left: 2005px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+
+
+
+
+
+
+.fine{
+	position: absolute;
+	z-index: 2;
+	top: 117px;
+	left: 2737px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+.frame5{
+	position: absolute;
+	z-index: 2;
+	top: 50px;
+	left: 2625px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+.meme5a{
+	z-index: 4;
+	background-color:white;
+	position: absolute;
+	opacity: 0.0;
+	height: 50px;
+	width: 353px;
+	top: 175px;
+	left: 2747px;
+	font-family: impact;
+	font-size: 16px;
+	font-color: gold;
+	text-align: center;
+	padding-top: 5px;
+}
+
+.meme5a:hover{
+	opacity: 0.75;
+}
+
+.meme5b{
+	z-index: 4;
+	position: absolute;
+	background-color: white;
+	opacity: 0.0;
+	height: 50px;
+	width: 353px;
+	top: 535px;
+	left: 2747px;
+	font-family: impact;
+	font-size: 26px;
+	font-color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme5b:hover{
+	opacity: 0.75;
+}
+
+
+
+
+
+
+
+
+.meme6a{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 550px;
+	width: 353px;
+	top: 80px;
+	left: 3360px;
+	font-family: impact;
+	font-size: 16px;
+	color: black;
+	text-align: center;
+}
+
+.meme6a:hover{
+	opacity: 1;
+}
+
+.meme6b{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 50px;
+	width: 353px;
+	top: 175px;
+	left: 3300px;
+	font-family: impact;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme6b:hover{
+	opacity: 1.0;
+}
+
+.meme6c{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 50px;
+	width: 353px;
+	top: 150px;
+	left: 3500px;
+	font-family: impact;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.meme6c:hover{
+	opacity: 1;
+}
+
+.annunciation{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 3300px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+
+
+
+
+
+
+
+.dying{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 3900px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+.meme7{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 400px;
+	width: 279px;
+	top: 300px;
+	left: 4050px;
+	font-family: impact;
+	font-size: 16px;
+	color: black;
+	text-align: center;
+}
+
+.meme7:hover{
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+.meme8{
+	z-index: 4;
+	position: absolute;
+	background-color: white;
+	opacity: 0;
+	height: 60px;
+	width: 268px;
+	top: 450px;
+	left: 5189px;
+	font-family: impact;
+	font-size: 24px;
+	color: black;
+	text-align: center;
+	padding-top: 10px
+}
+
+
+.meme8:hover{
+	opacity: 0.75;
+}
+
+.frame8{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 5100px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+.thrilla{
+	position: absolute;
+	z-index: 3;
+	top: 120px;
+	left: 5100px;
+	
+}
+
+
+
+
+
+.meme9{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 60px;
+	width: 268px;
+	top: 210px;
+	left: 5739px;
+	font-family: impact;
+	font-size: 22px;
+	color: white;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 5px;
+}
+
+.meme9:hover{
+	opacity: 1;
+}
+
+
+.frame9{
+	height:449px;
+	width: 514px;
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 5650px;
+}
+
+.potatoes{
+	position: absolute;
+	z-index: 3;
+	top: 211px;
+	left: 5739px;
+}
+
+
+
+
+.meme10{
+	z-index: 4;
+	position: absolute;
+	background-color: white;
+	opacity: 0;
+	height: 50px;
+	width: 345px;
+	top: 460px;
+	left: 6250px;
+	font-family: impact;
+	font-size: 28px;
+	color: black;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
+.meme10:hover{
+	opacity: 0.75;
+}
+
+.fire{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 6200px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+
+
+
+
+
+.meme11{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 700px;
+	width: 615px;
+	top: 60px;
+	left: 6805px;
+	font-family: impact;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+
+.meme11:hover{
+	opacity: 1;
+}
+
+
+.cherubs{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 6750px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+
+
+
+.meme12{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 300px;
+	width: 215px;
+	top: 215px;
+	left: 8245px;
+	font-family: impact;
+	font-size: 16px;
+	color: black;
+	text-align: left;
+}
+
+.meme12:hover{
+	opacity: 0.75;
+}
+
+
+
+.beat{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 8150px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+
+.meme13{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 50px;
+	width: 215px;
+	top: 105px;
+	left: 8755px;
+	font-family: impact;
+	font-size: 16px;
+	color: black;
+	text-align: left;
+}
+
+.meme13:hover{
+	opacity: 1;
+}
+
+.geography{
+	position: absolute;
+	z-index: 2;
+	top: 120px;
+	left: 8735px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+
+.meme14{
+	z-index: 4;
+	position: absolute;
+	opacity: 0;
+	height: 50px;
+	width: 300px;
+	top: 120px;
+	left: 9400px;
+	font-family: impact;
+	font-size: 18px;
+	color: black;
+	text-align: center;
+}
+
+.meme14:hover{
+	opacity: 1;
+}
+
+
+.Gogh{
+	position: absolute;
+	z-index: 2;
+	left: 9400px;
+	top: 120px;
+	box-shadow: 10px 10px 30px #8B8878;
+}
+
+
+

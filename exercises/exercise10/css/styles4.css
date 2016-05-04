@@ -1,0 +1,30 @@
+body{ 
+	background: gold;
+}
+	 @-webkit-keyframes example {
+   from { transform: scale(3.0); }
+   to   { transform: scale(1.0); }
+}
+
+
+
+/* This is the element that we apply the animation to. */
+.text1{
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 2s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: infinite;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   margin-left: 200px;
+   top: 1000px;
+   height: 300px;
+   width: 300px;
+   color: goldenrod;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 150px;
+   -webkit-transform: rotate(30deg);
+   position: absolute;
+   animation-iteration-count: infinite;
+}
+	

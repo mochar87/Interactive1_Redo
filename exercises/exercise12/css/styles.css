@@ -1,0 +1,26 @@
+body{
+	background: black;
+}
+
+.box1{
+	position: relative;
+	background-color: cyan;
+	width: 200px;
+	height: 250px;
+	font-family: 'Kaushan Script', cursive;
+	font-size: 65px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+	padding: 35px;
+}
+
+.box2{
+	z-index: 2;
+	background-color: yellow;
+	width: 1000px;
+	height: 700px;
+	font-family: 'Chango', cursive;
+	font-size: 100px;
+	color: black;
+}

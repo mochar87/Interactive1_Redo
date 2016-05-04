@@ -1,0 +1,56 @@
+body {
+	padding:50px;
+}
+
+div{
+  cursor:move;
+  width:70px;
+  height:70px;
+  background-color:black;
+  border:1px solid black;
+  margin:2px;
+  float:left;
+}
+
+.draggable {
+  background-color: transparent;
+}
+
+.blue{
+	background-color: blue;
+	height: 300px;
+	width: 50px;
+}
+
+.purple{
+	background-color: transparent;
+	border: dotted 20px purple;
+	height: 500px;
+	width: 750px;
+}
+
+.red{
+	background-color: red;
+	border: dashed 5px blue;
+	height: 50px;
+	width: 50px;
+}
+
+.orange{
+	background-color: orange;
+	height: 100px;
+	width: 50px;
+}
+
+.green{
+	background-color: green;
+	border-left: dashed 7px red;
+	height: 300px;
+	width: 25px;
+}
+
+.pink{
+	background-color: pink;
+	height: 30px;
+	width: 400px;
+}
