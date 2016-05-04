@@ -9,8 +9,7 @@ h1{
 	font-family:'Patrick Hand SC', cursive;
 	color: orange;
 	font-size: 40px;
-	padding-left: 15px;
-	text-align:;
+	text-align:center;
 }
 
 h2{
@@ -25,9 +24,8 @@ h2{
 	font-family: 'Patrick Hand SC', cursive;
 	font-size: 20px;
 	color: orange;
-	padding-left: 115px;
-	padding-top: 100px;
 	margin: auto;
+	text-align: center;
 }
 
 #project2{
